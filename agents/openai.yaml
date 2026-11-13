@@ -1,0 +1,4 @@
+interface:
+  display_name: "lei-baokuan-copy · 爆款复刻"
+  short_description: "用Hypit拆解原视频，确认产品、需求人群与脚本要求，输出可直接投喂视频模型的复刻提示词"
+  default_prompt: "使用 $lei-baokuan-copy 先检查并按需安装 Hypit，再解析我提供的原视频，收集并确认产品信息，推演需求和人群，确认字幕及分段要求后生成视频复刻提示词。"
